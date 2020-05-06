@@ -1,0 +1,96 @@
+.contan{
+    background: black;
+    height: 500px;
+}
+.container{
+    max-width: 900px;
+    margin: 0 auto;
+}
+.social{
+    margin-left: 4%;
+    margin-top: 2%;
+}
+.social1{
+    margin-left: 4%;
+    margin-top: 2%;
+}
+.front{
+    font-size: 19px;
+}
+.oneHTML{
+    margin-left: 50%;font-size: 16px;
+}
+.oneCSS{
+    margin-left: 56%;font-size: 16px;
+}
+.oneSASS{
+    margin-left: 52%;font-size: 16px;
+}
+.oneResponsive{
+    margin-left: 27.5%;font-size: 16px;
+}
+.oneJAVASCRIPT{
+    margin-left: 29%;font-size: 16px;
+}
+.oneJQUERY{
+    margin-left: 43%;font-size: 16px;
+}
+.twocsharp{
+    margin-left: 58%;font-size: 16px;
+}
+.twoasp{
+    margin-left: 39%;font-size: 16px;
+}
+.threemssql{
+    margin-left: 45%;font-size: 16px;
+}
+.threemysql{
+    margin-left: 45%;font-size: 16px;
+}
+.myknowledge1 h4{
+    font-size: 18px;
+}
+.myknowledge2 h4{
+    font-size: 18px;
+}
+.myknowledge3 h4{
+    font-size: 18px;
+}
+.elaqe{
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding-top: 5%;
+}
+.input1 input{
+    padding:15px;
+    font-size: 1rem;
+    line-height: 2.5;
+    font-weight: 400;
+    width: 200%;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    background-color: #fff;
+    margin-top: 5%;
+}
+.containerend{
+    max-width: 900px;
+    margin: 0 auto;
+}
+.input2{
+    display: flex;
+    flex-direction: row;
+    margin-left: 29%;
+}
+.input2 input{
+    width: 200%;
+    padding:0 300px 192px 10px;
+    font-size: 1rem;
+    line-height: 2.5;
+    font-weight: 400;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    background-color: #fff;
+    margin-top: 2%;
+}

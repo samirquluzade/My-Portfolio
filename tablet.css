@@ -1,0 +1,181 @@
+.navbar .one{
+    display: none;
+}
+.navbar #menu i{
+    color:white;
+    display: block;
+}
+.navbar #menu{
+    color:white;
+    display: block;
+    padding-right: 3%;
+    margin-top: 1.5%;
+}
+.container h3{
+    font-size: 28px;
+}
+.container h1{
+    font-size: 46px;
+}
+.bilik{
+    margin-left: 38%;
+}
+.dropdown-content{
+    display: block;
+}
+/*.two{*/
+/*    display: block;*/
+/*}*/
+.contan{
+    background: black;
+    height: 620px;
+}
+.container{
+    max-width: 600px;
+    margin: 0 auto;
+}
+.photo{
+    height: 350px;
+}
+.socials{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.socials .social{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.socials1{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.myknowledge{
+    display: flex;
+    flex-direction: column;
+    margin-top: 5%;
+}
+.front{
+    display: flex;
+    justify-content: center;
+    font-size: 24px;
+}
+.myknowledge1 h4{
+    font-size: 24px;
+}
+.myknowledge2 h4{
+    font-size: 24px;
+}
+.myknowledge3 h4{
+    font-size: 24px;
+}
+.percent1{
+    width: 100%;
+    background: black;
+    height: 8px;
+    position: relative;
+}
+.oneHTML{
+    margin-left: 80%;font-size: 16px;
+}
+.oneCSS{
+    margin-left: 84%;font-size: 16px;
+}
+.oneSASS{
+    margin-left: 81%;font-size: 16px;
+}
+.oneResponsive{
+    margin-left: 64%;font-size: 16px;
+}
+.oneJAVASCRIPT{
+    margin-left: 65%;font-size: 16px;
+}
+.oneJQUERY{
+    margin-left: 74%;font-size: 16px;
+}
+.twocsharp{
+    margin-left: 85%;font-size: 16px;
+}
+.twoasp{
+    margin-left: 72.7%;font-size: 16px;
+}
+.threemssql{
+    margin-left: 76%;font-size: 16px;
+}
+.threemysql{
+    margin-left: 76%;font-size: 16px;
+}
+.myknowledge2{
+    margin-top: 10%;
+}
+.myknowledge3{
+    margin-top: 10%;
+}
+.back{
+    background: url("Images/image-blog-developer-productivity-report-2017.jpg") fixed center no-repeat;
+    height: 1200px;
+    background-size: cover;
+    color:white;
+}
+.inputs{
+    display: flex;
+    flex-direction: column;
+}
+.input1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.input1 input{
+    padding:15px;
+    font-size: 1rem;
+    line-height: 2.5;
+    font-weight: 400;
+    width: 70%;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    background-color: #fff;
+    margin-top: 4%;
+}
+.input2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 0%;
+    margin-top: 3%;
+}
+.input2 input{
+    width: 58%;
+    padding:0 100px 150px 10px;
+    font-size: 1rem;
+    line-height: 2.5;
+    font-weight: 400;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    background-color: #fff;
+    margin-top: 2%;
+}
+.backcolor{
+    background-image: url("Images/map-image.png");
+    height: 750px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #212529;
+}
+.gonder{
+    color: white;
+    float: left;
+    margin-left: 37%;
+    padding: 1.25rem 2.5rem;
+    letter-spacing: 1px;
+    background: #fed136;
+    margin-top: 4%;
+    font-weight: 700;
+    transition: .4s;
+    border-radius: 0.25rem;
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
